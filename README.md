@@ -1,0 +1,2 @@
+# BoKi
+boki-privacy-policy
